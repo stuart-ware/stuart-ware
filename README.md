@@ -1,4 +1,4 @@
-## Hi i'm Anthony Stuart
+## Hi I'm Anthony Stuart
 
 Computer Science Student.\
 I like learning!
