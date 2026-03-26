@@ -1,5 +1,5 @@
 # Anthony Stuart @stuart-ware
-## Backend Developer Jr. | Linux | Computer Science Student
+## Backend Developer Jr. - Linux - Computer Science Student
 
 <p>
   <a href="https://skillicons.dev">
