@@ -1,10 +1,8 @@
-## Hi I'm Anthony Stuart
+# Anthony Stuart @stuart-ware
+## Backend Developer Jr. | Linux | Computer Science Student
 
-Computer Science Student.\
-I like learning!
-
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,java,python,js" />
+    <img src="https://skillicons.dev/icons?i=java,linux,bash,python,c,javascript,php" />
   </a>
 </p>
