@@ -3,6 +3,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,linux,bash,python,c,javascript,php" />
+    <img src="https://skillicons.dev/icons?i=linux,java,python,bash,c,javascript,php" />
   </a>
 </p>
